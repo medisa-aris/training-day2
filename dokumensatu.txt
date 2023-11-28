@@ -1,1 +1,7 @@
-ini 1
+<html>
+<head>
+</head>
+<body>
+Ini isi dari tag body
+</body>
+</html>
